@@ -1,0 +1,11 @@
+{
+  "name": "jsy-auto-test",
+  "scripts": {
+    "test": "gauge run specs/"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "pixelmatch": "^5.2.1",
+    "playwright": "^1.21.0"
+  }
+}
